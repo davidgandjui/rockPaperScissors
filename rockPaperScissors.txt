@@ -1,6 +1,6 @@
-objective:
-this program will allow the use to okay rock apper scissors against the computer
--we will...
+Objective: This program will allow the user to play Rock Paper Scissors against the computer.
+
+Algorithm
 -create a code that checks who won each round
 -create code that takes the input(choice) from the user
 -we will create code that takes input from the computer
